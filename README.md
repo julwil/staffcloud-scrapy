@@ -5,4 +5,4 @@ Web crawler to check HTTP response code of Staffcloud application
 ``pip install scrapy``
 
 ## Usage
-``scrapy crawl staffcloud --loglevel WARNING -a base_url=https://acme.staff.cloud -a username=planner1 -a password=planner1 ``
+``scrapy crawl staffcloud --loglevel WARNING -a base_url=https://base_url -a username=username -a password=password ``
